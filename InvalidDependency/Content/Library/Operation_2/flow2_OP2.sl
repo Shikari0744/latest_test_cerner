@@ -26,8 +26,8 @@ extensions:
   graph:
     steps:
       random_number_generator:
-        x: 205.16665649414062
-        'y': 197.75
+        x: 160
+        'y': 200
       return_string:
         x: 440
         'y': 200
